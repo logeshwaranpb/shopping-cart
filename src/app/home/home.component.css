@@ -1,0 +1,17 @@
+.container {
+    padding: 5px;
+}
+
+.mat-card {
+    padding: 10px;
+}
+
+.mat-card-title {
+    margin: 0;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+}
+
+.mat-card-content {
+    padding: 5px;
+}
