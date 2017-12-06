@@ -1,8 +1,13 @@
 @import '~https://fonts.googleapis.com/icon?family=Material+Icons';
 @import '~@angular/material/prebuilt-themes/indigo-pink.css';
 
-body {
+html, body {
     margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
     font-family: Roboto, sans-serif;
 }
 
@@ -12,4 +17,12 @@ body {
 
 .fill-rem-space {
     flex: 1 1 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
 }
